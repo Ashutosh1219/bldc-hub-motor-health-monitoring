@@ -131,7 +131,7 @@ The approach emphasizes reliability enhancement rather than control optimization
 - ✔ Multi-domain fault injection completed
 - ✔ Feature extraction pipeline established
 - ✔ Comparative analysis of fault signatures completed
-- ⏳ Journal manuscript preparation in progress
+- ✔ Journal ready manuscript is done and applied for publication
 
 ---
 
